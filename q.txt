@@ -1,0 +1,7 @@
+split method to turn string in list$true
+join method to turn list in string$true
+32+2$34
+33+1$34
+30+4$34
+35-1$34
+2+1000$1002
